@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    width: 80%;
+    margin: 2rem auto;
+    background-color: white;
+    padding: 2rem;
+}
+header{
+    font-size: 18px;
+}
+#sec1 p{
+    color: green;
+    font-size: 14px;
+}
+#sec1 .p1, #sec2 .p1{
+    margin-bottom: .5rem;
+}
+#sec2{
+    color: red;
+    font-size: 14px;
+    margin: 3rem auto;
+}
+#sec3{
+    color: blue;
+    font-size: 14px;
+}
